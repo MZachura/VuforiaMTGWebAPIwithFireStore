@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385851532960",
+    "project_id": "mgrmiddleman",
+    "storage_bucket": "mgrmiddleman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385851532960:android:98452e3593001d4a82cbc5",
+        "android_client_info": {
+          "package_name": "edu.agh.MyVuforiaMGR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385851532960-5phpvnhjtgfkfqs8p9qh92ma1hb943lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDiGvC9P-oaRrIoxamBMdU_oNaZcHFVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385851532960-5phpvnhjtgfkfqs8p9qh92ma1hb943lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
